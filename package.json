@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-app",
+  "version": "1.0.0",
+  "description": "Github pages: https://juanjefry23.github.io/restaurante-calculadora-app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanJefry23/restaurante-calculadora-app.git"
+  },
+  "author": "JJOA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanJefry23/restaurante-calculadora-app/issues"
+  },
+  "homepage": "https://github.com/JuanJefry23/restaurante-calculadora-app#readme"
+}
