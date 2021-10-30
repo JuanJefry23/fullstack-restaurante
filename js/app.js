@@ -56,7 +56,7 @@ function guardarCliente() {
 }
 
 async function obtenerPlatillos() {
-  const url = "https://restaurante-platillos.herokuapp.com//platillos";
+  const url = "https://restaurante-platillos.herokuapp.com/platillos";
 
   const respuesta = await fetch(url);
   const resultado = await respuesta.json();
