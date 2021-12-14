@@ -13,7 +13,6 @@ Backend deployed on Heroku
 
 Frontend deployed on Github pages
 
-
-###DEPLOYED LINK PROJECT
+### DEPLOYED LINK PROJECT
 
 Github pages: https://juanjefry23.github.io/fullstack-restaurante/
