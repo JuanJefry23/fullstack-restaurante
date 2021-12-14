@@ -10,6 +10,7 @@ Backend: NODE JS
 Database: MONGODB ATLAS
 
 Backend deployed on Heroku
+
 Frontend deployed on Github pages
 
 
